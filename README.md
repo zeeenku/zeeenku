@@ -9,6 +9,8 @@
 
 ###
 
+
+
 <div align="left">
   <a href="https://x.com/_zenku__" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
@@ -127,15 +129,20 @@
 
 <br clear="both">
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/zeeenku/count.svg?"  />
+</div>
+
+###
+
+<br clear="both">
+
 <h2 align="left">Nice to meet you :)</h2>
 
 ###
 
 <img align="left" height="80" src="https://media.giphy.com/media/aQFiKGhqerg2Y/giphy.gif?cid=790b7611cjylmn0nihrgz8zorsigg83fp0istfojfuxdhpsc&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
-###
-
-<img src="https://raw.githubusercontent.com/zeeenku/zeeenku/output/snake.svg" alt="Snake animation" />
 
 ###
 
