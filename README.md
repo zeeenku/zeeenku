@@ -144,7 +144,7 @@ This is my 1st account (<a href="https://github.com/YA-GA-HI/">second one</a>). 
 
 ###
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center;">
     <img height="100" src="https://media.giphy.com/media/aQFiKGhqerg2Y/giphy.gif?cid=790b7611cjylmn0nihrgz8zorsigg83fp0istfojfuxdhpsc&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
     <img height="100" src="https://media.giphy.com/media/12p5byldHRgyu4/giphy.gif?cid=790b7611xou7xmhulhvwyo4015g4walr83qruazqfwyyaem1&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
     <img height="100" src="https://media.giphy.com/media/Epy1SqYt1nHvq/giphy.gif?cid=790b76110a763yci2xe8mnx0yywx8u10jwkw8xuld7elvmsc&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
