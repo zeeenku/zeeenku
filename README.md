@@ -1,24 +1,12 @@
-[![Header](https://github.com/YA-GA-HI/YA-GA-HI/blob/main/header.png "Header")](https://some-url.dev/)
+[![Header](https://github.com/zeeenku/zeeenku/blob/main/header.png "Header")](https://some-url.dev/)
 
 <h1 align="left">Hi I am Zenku👋!</h1>
-<h2 align="left">My name is Zakariaa Enajjachi and I'm a programmer from Morocco</h2>
-###
+<p align="left">My name is Zakariaa Enajjachi and I'm a programmer from Morocco,
+this is my 1st account (<a href="https://github.com/YA-GA-HI/">second one</a>) & I am also interested in Mathematics & Sports.
+</p>
 
 ###
 
-- 👋 My name is Zakariaa Enajjachi
-
-- 👀 I’m interested in Programming , Arts , also in Mathematics.
-
-- 🌱 I’m currently learning **Data structures & Algorithmes**
-
-- 💬 Ask me about **Vue, Laravel , Python**
-
-- 💞️ I’m looking to collaborate on a Laravel or a Vue project
-
-- 📫 How to reach me **kariyakariya399@gmail.com**
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zeeenku&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
