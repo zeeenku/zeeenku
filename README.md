@@ -1,8 +1,8 @@
 [![Header](https://github.com/zeeenku/zeeenku/blob/main/header.png "Header")](https://some-url.dev/)
 
-<h1 align="left">Hi I am Zenku👋!</h1>
-<p align="left">My name is Zakariaa Enajjachi and I'm a programmer from Morocco. <br/>
-This is my 1st account (<a href="https://github.com/YA-GA-HI/">second one</a>) & I am also interested in Mathematics & Sports.
+<h1 align="left">My name is Zakariaa Enajjachi and I'm a programmer from Morocco!</h1>
+<p align="center">
+This is my 1st account (<a href="https://github.com/YA-GA-HI/">second one</a>). I am also interested in Mathematics & Sports.
 </p>
 
 ###
@@ -17,7 +17,7 @@ This is my 1st account (<a href="https://github.com/YA-GA-HI/">second one</a>) &
 
 
 
-<div align="left">
+<div align="center">
   <a href="https://x.com/_zenku__" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
@@ -41,7 +41,7 @@ This is my 1st account (<a href="https://github.com/YA-GA-HI/">second one</a>) &
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
@@ -144,15 +144,8 @@ This is my 1st account (<a href="https://github.com/YA-GA-HI/">second one</a>) &
 
 ###
 
-<img align="center" height="100" src="https://media.giphy.com/media/aQFiKGhqerg2Y/giphy.gif?cid=790b7611cjylmn0nihrgz8zorsigg83fp0istfojfuxdhpsc&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-
-###
-
-<img align="center" height="100" src="https://media.giphy.com/media/12p5byldHRgyu4/giphy.gif?cid=790b7611xou7xmhulhvwyo4015g4walr83qruazqfwyyaem1&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
-
-<img align="center" height="100" src="https://media.giphy.com/media/Epy1SqYt1nHvq/giphy.gif?cid=790b76110a763yci2xe8mnx0yywx8u10jwkw8xuld7elvmsc&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
+<div style="text-align: center;">
+    <img height="100" src="https://media.giphy.com/media/aQFiKGhqerg2Y/giphy.gif?cid=790b7611cjylmn0nihrgz8zorsigg83fp0istfojfuxdhpsc&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="display: inline-block;" />
+    <img height="100" src="https://media.giphy.com/media/12p5byldHRgyu4/giphy.gif?cid=790b7611xou7xmhulhvwyo4015g4walr83qruazqfwyyaem1&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="display: inline-block;" />
+    <img height="100" src="https://media.giphy.com/media/Epy1SqYt1nHvq/giphy.gif?cid=790b76110a763yci2xe8mnx0yywx8u10jwkw8xuld7elvmsc&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="display: inline-block;" />
+</div>
