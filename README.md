@@ -1,8 +1,8 @@
 [![Header](https://github.com/zeeenku/zeeenku/blob/main/header.png "Header")](https://some-url.dev/)
 
 <h1 align="left">Hi I am Zenku👋!</h1>
-<p align="left">My name is Zakariaa Enajjachi and I'm a programmer from Morocco,
-this is my 1st account (<a href="https://github.com/YA-GA-HI/">second one</a>) & I am also interested in Mathematics & Sports.
+<p align="left">My name is Zakariaa Enajjachi and I'm a programmer from Morocco. <br/>
+This is my 1st account (<a href="https://github.com/YA-GA-HI/">second one</a>) & I am also interested in Mathematics & Sports.
 </p>
 
 ###
@@ -33,6 +33,10 @@ this is my 1st account (<a href="https://github.com/YA-GA-HI/">second one</a>) &
   <a href="mailto:enajjachi.zakariaa@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
+<a href="#">
+  <img src="https://profile-counter.glitch.me/zeeenku/count.svg?"  />
+</a>
+
 </div>
 
 ###
@@ -131,13 +135,6 @@ this is my 1st account (<a href="https://github.com/YA-GA-HI/">second one</a>) &
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/zeeenku/count.svg?"  />
-</div>
 
 ###
 
@@ -147,15 +144,15 @@ this is my 1st account (<a href="https://github.com/YA-GA-HI/">second one</a>) &
 
 ###
 
-<img align="left" height="80" src="https://media.giphy.com/media/aQFiKGhqerg2Y/giphy.gif?cid=790b7611cjylmn0nihrgz8zorsigg83fp0istfojfuxdhpsc&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="center" height="100" src="https://media.giphy.com/media/aQFiKGhqerg2Y/giphy.gif?cid=790b7611cjylmn0nihrgz8zorsigg83fp0istfojfuxdhpsc&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 
 ###
 
-<img align="left" height="100" src="https://media.giphy.com/media/12p5byldHRgyu4/giphy.gif?cid=790b7611xou7xmhulhvwyo4015g4walr83qruazqfwyyaem1&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="center" height="100" src="https://media.giphy.com/media/12p5byldHRgyu4/giphy.gif?cid=790b7611xou7xmhulhvwyo4015g4walr83qruazqfwyyaem1&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
-<img align="left" height="100" src="https://media.giphy.com/media/Epy1SqYt1nHvq/giphy.gif?cid=790b76110a763yci2xe8mnx0yywx8u10jwkw8xuld7elvmsc&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="center" height="100" src="https://media.giphy.com/media/Epy1SqYt1nHvq/giphy.gif?cid=790b76110a763yci2xe8mnx0yywx8u10jwkw8xuld7elvmsc&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
