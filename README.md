@@ -1,4 +1,22 @@
-<h2 align="left">Hi I am Zenku👋! My name is Zakariaa Enajjachi and I'm a programmer from Morocco</h2>
+[![Header](https://github.com/YA-GA-HI/YA-GA-HI/blob/main/header.png "Header")](https://some-url.dev/)
+
+<h1 align="left">Hi I am Zenku👋!</h1>
+<h2 align="left">My name is Zakariaa Enajjachi and I'm a programmer from Morocco</h2>
+###
+
+###
+
+- 👋 My name is Zakariaa Enajjachi
+
+- 👀 I’m interested in Programming , Arts , also in Mathematics.
+
+- 🌱 I’m currently learning **Data structures & Algorithmes**
+
+- 💬 Ask me about **Vue, Laravel , Python**
+
+- 💞️ I’m looking to collaborate on a Laravel or a Vue project
+
+- 📫 How to reach me **kariyakariya399@gmail.com**
 
 ###
 
