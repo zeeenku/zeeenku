@@ -1,4 +1,4 @@
-[![Header](https://github.com/zeeenku/zeeenku/blob/main/header.png "Header")](https://some-url.dev/)
+[![Header](https://github.com/zeeenku/zeeenku/blob/main/header-01.png "Header")](https://some-url.dev/)
 
 <h1 align="left">My name is Zakariaa Enajjachi and I'm a programmer from Morocco!</h1>
 <p align="center">
